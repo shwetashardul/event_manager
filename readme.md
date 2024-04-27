@@ -7,7 +7,7 @@ Issue 5: [Issue 5](https://github.com/shwetashardul/event_manager1/pull/10)
 
 
 ## Coverage ScreenShot
-[Coverage](https://github.com/shwetashardul/event_manager1/blob/main/Screenshots/CoverageSS.png)
+![Coverage](https://github.com/shwetashardul/event_manager1/blob/main/Screenshots/CoverageSS.png)
 
 ## Docker Screenshot
 ![Docker Screenshot](https://github.com/shwetashardul/event_manager1/blob/main/Screenshots/Docker%20Screenshot.png)
