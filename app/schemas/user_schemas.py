@@ -220,7 +220,7 @@ class UserUpdate(BaseModel):
                 "email": "john.doe.new@example.com",
                 "full_name": "John Doe",
                 "bio": "I am a software engineer with over 5 years of experience in building scalable web applications using Python and JavaScript.",
-                "profile_picture_url": "https://example.com/profile_pictures/jane_smith.jpg"
+                "profile_picture_url": "https://example.com/profile_pictures/john_doe.jpg"
             }
         }
 
